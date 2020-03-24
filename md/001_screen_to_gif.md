@@ -10,7 +10,6 @@ title: 001《ScreenToGif》如何快速将gif图调整到300帧以内?
 
 zhaoolee找到一个开源的小工具(昭昭的奇妙工具)ScreenToGif
 
-
 ![](https://www.v2fy.com/asset/change_gif_frame_number/to_252.gif)
 
 调整前的图片504帧: https://www.v2fy.com/asset/change_gif_frame_number/504.gif 
@@ -29,6 +28,15 @@ ScreenToGif下载地址: https://www.lanzous.com/b00nfgo3c
 
 M帧gif图减少到300帧以内的计算方法: **300/(M-300)**, 结果为小数则只取整数部分
 
+## ScreenToGif下载地址
+
+[https://www.lanzous.com/b00nfgo3c](ttps://www.lanzous.com/b00nfgo3c)
+
+
+---
+
+「奇妙软件技能书」主页：https://www.v2fy.com/WunderSoftSkills
+本文属于 「奇妙软件技能书」的一部分，「奇妙软件技能书」以问题作为标题，用gif图解答问题，文章末尾放出软件的下载链接，用最少的字，最简洁的图，传递最有用的奇妙技能; 让「奇妙软件技能」造福人类～
 
 
 

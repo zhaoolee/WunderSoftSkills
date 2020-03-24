@@ -1,5 +1,10 @@
 # 奇妙软件技能书
 
+「奇妙软件技能书」以问题作为标题，用gif图解答问题，文章末尾放出软件的下载链接，用最少的字，最简洁的图，传递最有用的奇妙技能; 让「奇妙软件技能」造福人类～
+
+「奇妙软件技能书」主页：https://www.v2fy.com/WunderSoftSkills
+
+「奇妙软件技能书」开源地址：https://www.github.com/zhaoolee/WunderSoftSkills
 
 ## 目录
 
