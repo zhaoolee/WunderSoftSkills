@@ -19,4 +19,4 @@
 
 ## 感觉不错,请作者喝杯咖啡~
 
-![](https://raw.githubusercontent.com/zhaoolee/jikemiji/master/README/c4fdea49e11241e392d6bcaa33855897.png)
+![](https://www.v2fy.com/asset/README/c4fdea49e11241e392d6bcaa33855897.png)
