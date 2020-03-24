@@ -8,10 +8,10 @@
 [奇妙软件技能书](https://www.v2fy.com/p/000_readme_wundersoftskills/)
 
 
-[《ScreenToGif》如何快速将gif图调整到300帧以内?](https://www.v2fy.com/p/001_screen_to_gif/)
+[001《ScreenToGif》如何快速将gif图调整到300帧以内?](https://www.v2fy.com/p/001_screen_to_gif/)
 
 
-[《MouseInc》Windows如何优雅实时显示键盘按键？](https://www.v2fy.com/p/002_ｍouseinc/)
+[002《MouseInc》Windows如何优雅实时显示键盘按键？](https://www.v2fy.com/p/002_ｍouseinc/)
 
 ---end---
 
