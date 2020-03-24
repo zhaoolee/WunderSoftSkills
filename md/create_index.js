@@ -6,7 +6,7 @@ const fse = require("fs-extra");
 let default_title = "公众号「0加1」";
 
 // 真实readme的位置
-let true_readme_md = "000readme_wnmsb.md";
+let true_readme_md = "000readme_wundersoftskills.md";
 
 // 开始的符号
 

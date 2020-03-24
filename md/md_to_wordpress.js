@@ -5,7 +5,7 @@ const fse = require("fs-extra");
 const showdown = require("showdown");
 
 // 加分类
-let category_list = ["奇妙的新媒体技能书"];
+let category_list = ["奇妙软件技能书"];
 
 // 默认title
 let default_title = category_list[0];
