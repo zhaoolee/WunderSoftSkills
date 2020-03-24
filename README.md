@@ -5,7 +5,7 @@
 
 ---start---
 
-[公众号「0加1」](https://www.v2fy.com/p/000readme_wundersoftskills/)
+[奇妙软件技能书](https://www.v2fy.com/p/000readme_wundersoftskills/)
 
 
 [《ScreenToGif》如何快速将gif图调整到300帧以内?](https://www.v2fy.com/p/001-screenToGif/)
