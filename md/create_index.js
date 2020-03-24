@@ -6,7 +6,7 @@ const fse = require("fs-extra");
 let default_title = "奇妙软件技能书";
 
 // 真实readme的位置
-let true_readme_md = "000readme_wundersoftskills.md";
+let true_readme_md = "000_readme_wundersoftskills.md";
 
 // 开始的符号
 

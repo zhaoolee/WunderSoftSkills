@@ -14,7 +14,7 @@ let readme_img_dir =
 let zhaoolee_md_dir = "md";
 
 // readme文件名
-let readme_file_name = "000readme_wundersoftskills.md";
+let readme_file_name = "000_readme_wundersoftskills.md";
 
 // 可以跳过的图片地址关键词
 let ignore_img_list = ["img.shields.io", "www.bilibili.com"];
