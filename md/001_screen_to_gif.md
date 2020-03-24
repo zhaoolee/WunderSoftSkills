@@ -32,6 +32,9 @@ M帧gif图减少到300帧以内的计算方法: **300/(M-300)**, 结果为小数
 
 [https://www.lanzous.com/b00nfgo3c](ttps://www.lanzous.com/b00nfgo3c)
 
+## 小结:
+
+ScreenToGif**每隔N帧,抽取1帧的功能**,让gif图减少帧数的同时, 又保持了流畅性,即使是PhotoShop也没有提供自动化抽取帧数的解决方案, ScreenToGif提供的**每隔N帧,抽取1帧的功能**功能简直称得上小众神技!
 
 ---
 

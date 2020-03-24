@@ -28,3 +28,16 @@ title: 002《MouseInc》Windows如何优雅实时显示键盘按键？
 ## MouseInc下载地址
 
 [https://www.lanzous.com/iahyluh](https://www.lanzous.com/iahyluh)
+
+
+## 小结:
+
+「键盘回显」是一种让「键盘操作」可视化的技术，「键盘回显」不仅让操作透明化，而且可以提升观众的观看体验
+
+---
+
+「奇妙软件技能书」主页：https://www.v2fy.com/WunderSoftSkills
+本文属于 「奇妙软件技能书」的一部分，「奇妙软件技能书」以问题作为标题，用gif图解答问题，文章末尾放出软件的下载链接，用最少的字，最简洁的图，传递最有用的奇妙技能; 让「奇妙软件技能」造福人类～
+
+
+

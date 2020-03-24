@@ -25,6 +25,11 @@ function get_md_file_list() {
   root = __dirname;
   console.log(root);
   let all_files = fs.readdirSync(root);
+  // 逆转
+
+  all_files.reverse() 
+
+
   let all_md_files = [];
 
   // 获取md文件列表
