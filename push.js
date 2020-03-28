@@ -4,7 +4,7 @@ const download = require("download");
 const fs = require("fs");
 const { spawn } = require("child_process");
 
-let RepositoriesName = "jikemiji";
+let RepositoriesName = "WunderSoftSkills";
 
 let readme_img_dir =
   "https://raw.githubusercontent.com/zhaoolee/" +
