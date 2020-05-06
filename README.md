@@ -13,7 +13,7 @@
 [003《reaConverter 7 Pro》如何将知乎WebP动图批量转换为gif图？](https://www.v2fy.com/p/003_webp_reaconver7_pro/)
 
 
-[002《MouseInc》Windows如何优雅实时显示键盘按键？](https://www.v2fy.com/p/002_ｍouseinc/)
+[002《MouseInc》Windows如何优雅实时显示键盘按键？](https://www.v2fy.com/p/002_ｍouse_inc/)
 
 
 [001《ScreenToGif》如何快速将gif图调整到300帧以内?](https://www.v2fy.com/p/001_screen_to_gif/)
@@ -26,7 +26,7 @@
 
 
 
-#### [002《MouseInc》Windows如何优雅实时显示键盘按键？](https://www.v2fy.com/p/002_ｍouseinc/)
+#### [002《MouseInc》Windows如何优雅实时显示键盘按键？](https://www.v2fy.com/p/002_ｍouse_inc/)
 
 
 ![](https://raw.githubusercontent.com/zhaoolee/WunderSoftSkills/master/README/qiangjinjiu.gif)
